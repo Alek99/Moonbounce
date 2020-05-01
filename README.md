@@ -19,30 +19,24 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+## Installing and Running Moonbounce WebApp
 
-To install <project_name>, follow these steps:
-<!---
-$ # Get the source code 
-$ git clone https://github.com/app-generator/flask-dashboard-atlantis-dark.git 
-$ cd flask-dashboard-atlantis-dark 
-$ 
-$ # Virtualenv modules installation (Unix based systems) 
-$ virtualenv --no-site-packages env 
-$ source env/bin/activate 
-$ 
-$ # Install modules - SQLite Database 
+To install the Moonbounce Flask app, once in the Moonbounce WebApp folder follow these steps:
+
 $ pip3 install -r requirements.txt 
-$ 
-$ # Set the FLASK_APP environment variable 
+
+* Set the FLASK_APP environment variable 
+
 $ export FLASK_APP=run.py 
-$ 
-$ # Start the application (development mode) 
+
+* Start the application (development mode) 
+
 $ flask run 
-$ 
-$ # Access the dashboard in browser: http://127.0.0.1:5000/ 
-$ # Create an account and log in 
---->
+
+* Access the dashboard in browser: http://127.0.0.1:5000/ 
+*Create an account and log in 
+
+
 Windows:
 ```
 <install_command>
