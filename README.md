@@ -22,12 +22,27 @@ Before you begin, ensure you have met the following requirements:
 ## Installing <project_name>
 
 To install <project_name>, follow these steps:
-
-Linux and macOS:
-```
-<install_command>
-```
-
+<!---
+$ # Get the source code 
+$ git clone https://github.com/app-generator/flask-dashboard-atlantis-dark.git 
+$ cd flask-dashboard-atlantis-dark 
+$ 
+$ # Virtualenv modules installation (Unix based systems) 
+$ virtualenv --no-site-packages env 
+$ source env/bin/activate 
+$ 
+$ # Install modules - SQLite Database 
+$ pip3 install -r requirements.txt 
+$ 
+$ # Set the FLASK_APP environment variable 
+$ export FLASK_APP=run.py 
+$ 
+$ # Start the application (development mode) 
+$ flask run 
+$ 
+$ # Access the dashboard in browser: http://127.0.0.1:5000/ 
+$ # Create an account and log in 
+--->
 Windows:
 ```
 <install_command>
