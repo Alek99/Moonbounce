@@ -10,6 +10,9 @@
 ## Project Overview
 We propose to use the Green Bank Telescope (GBT) located in West Virginia, to observe Earth’s radio leakage radiation as reflected from the moon in the 290-1230 MHz range quarterly and yearly. These observations will give an indication of how the characteristics and detectability of Earth’s radio leakage, as seen by an external observer, have changed since a similar measurement was last performed in 2012 and before that in 1978. The Moonbounce project has previously been awarded observation time on the Green Bank Telescope in the fall of 2018 but observations did not come to fruition due to the priority level of the awarded time. The team has since re-submitted the proposal in January of 2019. 
 
+## Results
+Given a specific observation time a corresponding area on earth is able to emmit signals that can bounce off the moon and be collected at our reciever (GBT) which is locate in West Virginia. The created program takes in an obervation time and outputs an area that the possible collected signal could have originated from. In the generated graph below the lighter region represents the designated area of possible signals.
+
 
 ## Prerequisites
 
@@ -59,7 +62,7 @@ You might want to consider using something like the [All Contributors](https://g
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact me you can reach me at 17petuskey@berkeley.edu.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
