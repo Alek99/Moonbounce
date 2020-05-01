@@ -8,6 +8,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)--->
 
+## Project Overview
 We propose to use the Green Bank Telescope (GBT) located in West Virginia, to observe Earth’s radio leakage radiation as reflected from the moon in the 290-1230 MHz range quarterly and yearly. These observations will give an indication of how the characteristics and detectability of Earth’s radio leakage, as seen by an external observer, have changed since a similar measurement was last performed in 2012 and before that in 1978. The Moonbounce project has previously been awarded observation time on the Green Bank Telescope in the fall of 2018 but observations did not come to fruition due to the priority level of the awarded time. The team has since re-submitted the proposal in January of 2019. 
 
 
