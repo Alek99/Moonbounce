@@ -25,31 +25,16 @@ To install the Moonbounce Flask app, once in the Moonbounce WebApp folder follow
 
 $ pip3 install -r requirements.txt 
 
-* Set the FLASK_APP environment variable 
+Set the FLASK_APP environment variable 
 
-$ export FLASK_APP=run.py 
+* $ export FLASK_APP=run.py 
 
-* Start the application (development mode) 
+Start the application (development mode) 
 
-$ flask run 
+* $ flask run 
 
-* Access the dashboard in browser: http://127.0.0.1:5000/ 
-*Create an account and log in 
-
-
-Windows:
-```
-<install_command>
-```
-## Using <project_name>
-
-To use <project_name>, follow these steps:
-
-```
-<usage_example>
-```
-
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+Access the dashboard in browser: http://127.0.0.1:5000/ 
+Create an account and log in 
 
 ## Contributing to <project_name>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
