@@ -46,19 +46,7 @@ Start the application (development mode)
 Access the dashboard in browser: http://127.0.0.1:5000/ 
 Create an account and log in 
 
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@Julia DeMarines]
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
-
 ## Contact
 
 If you want to contact me you can reach me at 17petuskey@berkeley.edu.
 
-## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
-
-This project uses the following license: [<license_name>](<link>).
