@@ -1,12 +1,11 @@
 # The Moonbounce Project
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here 
+<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Alek99/Moonbounce.git)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)--->
+![GitHub repo size](https://img.shields.io/github/repo-size/Alek99/Moonbounce)
+![GitHub contributors](https://img.shields.io/github/contributors/Alek99/Moonbounce)
+![GitHub stars](https://img.shields.io/github/stars/Alek99/Moonbounce?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Alek99/Moonbounce?style=social)
 
 ## Project Overview
 We propose to use the Green Bank Telescope (GBT) located in West Virginia, to observe Earth’s radio leakage radiation as reflected from the moon in the 290-1230 MHz range quarterly and yearly. These observations will give an indication of how the characteristics and detectability of Earth’s radio leakage, as seen by an external observer, have changed since a similar measurement was last performed in 2012 and before that in 1978. The Moonbounce project has previously been awarded observation time on the Green Bank Telescope in the fall of 2018 but observations did not come to fruition due to the priority level of the awarded time. The team has since re-submitted the proposal in January of 2019. 
