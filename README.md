@@ -1,46 +1,42 @@
-# Project name
+# The Moonbounce Project
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+![GitHub repo size](https://img.shields.io/github/repo-size/Alek99/Moonbounce)
+![GitHub contributors](https://img.shields.io/github/contributors/Alek99/Moonbounce)
+![GitHub stars](https://img.shields.io/github/stars/Alek99/Moonbounce?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Alek99/Moonbounce?style=social)
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+## Project Overview
+We propose to use the Green Bank Telescope (GBT) located in West Virginia, to observe Earth’s radio leakage radiation as reflected from the moon in the 290-1230 MHz range quarterly and yearly. These observations will give an indication of how the characteristics and detectability of Earth’s radio leakage, as seen by an external observer, have changed since a similar measurement was last performed in 2012 and before that in 1978. The Moonbounce project has previously been awarded observation time on the Green Bank Telescope in the fall of 2018 but observations did not come to fruition due to the priority level of the awarded time. The team has since re-submitted the proposal in January of 2019. 
+
+## Results
+Given a specific observation time a corresponding area on earth is able to emmit signals that can bounce off the moon and be collected at our reciever (GBT) which is locate in West Virginia. The created program takes in an obervation time and outputs an area that the possible collected signal could have originated from. In the generated graph below the lighter region represents the designated area of possible signals.
+
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
+* You have installed the latest version of Flask
+* You have a Windows/Linux/Mac machine.
 
-## Installing <project_name>
+## Installing and Running Moonbounce WebApp
 
-To install <project_name>, follow these steps:
+To install the Moonbounce Flask app, once in the Moonbounce WebApp folder follow these steps:
 
-Linux and macOS:
-```
-<install_command>
-```
+$ pip3 install -r requirements.txt 
 
-Windows:
-```
-<install_command>
-```
-## Using <project_name>
+Set the FLASK_APP environment variable 
 
-To use <project_name>, follow these steps:
+* $ export FLASK_APP=run.py 
 
-```
-<usage_example>
-```
+Start the application (development mode) 
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+* $ flask run 
+
+Access the dashboard in browser: http://127.0.0.1:5000/ 
+Create an account and log in 
 
 ## Contributing to <project_name>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
@@ -66,7 +62,7 @@ You might want to consider using something like the [All Contributors](https://g
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact me you can reach me at 17petuskey@berkeley.edu.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
