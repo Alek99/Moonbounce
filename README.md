@@ -13,6 +13,14 @@ We propose to use the Green Bank Telescope (GBT) located in West Virginia, to ob
 ## Results
 Given a specific observation time a corresponding area on earth is able to emmit signals that can bounce off the moon and be collected at our reciever (GBT) which is locate in West Virginia. The created program takes in an obervation time and outputs an area that the possible collected signal could have originated from. In the generated graph below the lighter region represents the designated area of possible signals.
 
+![alt text](https://github.com/Alek99/Moonbounce/blob/master/October6ObservationExample.png)
+
+## WebApp
+
+The WebApp displays the same functionality listed above but in a dynamic way. Once running simply input an observation time and a graph of moon-earth visibility will be displayed. Additionally another feature currently in progress is a database of our observation times which can be filtered and sorted based on criteria such as observation date, length, and desired signal range. Example of webapp display below where the yellow represents the moon's overhead path and red and yellow lines represent where visibilty starts and ends.
+
+![alt text](https://github.com/Alek99/Moonbounce/blob/master/Screen%20Shot%202020-04-15%20at%2011.54.22%20AM.png)
+
 
 ## Prerequisites
 
@@ -37,18 +45,6 @@ Start the application (development mode)
 
 Access the dashboard in browser: http://127.0.0.1:5000/ 
 Create an account and log in 
-
-## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Contributors
 
