@@ -1,0 +1,3 @@
+#!/Users/alekpetuskey/Desktop/Enviroments/Moonbounce/bin/python
+from numba.pycc import main
+main()
