@@ -13,36 +13,10 @@ We propose to use the Green Bank Telescope (GBT) located in West Virginia, to ob
 ## Results
 Given a specific observation time a corresponding area on earth is able to emmit signals that can bounce off the moon and be collected at our reciever (GBT) which is locate in West Virginia. The created program takes in an obervation time and outputs an area that the possible collected signal could have originated from. In the generated graph below the lighter region represents the designated area of possible signals.
 
-## WebApp
-
-The WebApp displays the same functionality listed above but in a dynamic way. Once running simply input an observation time and a graph of moon-earth visibility will be displayed. Additionally another feature currently in progress is a database of our observation times which can be filtered and sorted based on criteria such as observation date, length, and desired signal range. Example of webapp display below where the yellow represents the moon's overhead path and red and yellow lines represent where visibilty starts and ends.
-
-![alt text](https://github.com/Alek99/Moonbounce/blob/master/Screen%20Shot%202020-04-15%20at%2011.54.22%20AM.png)
-
-
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of Flask
-* You have a Windows/Linux/Mac machine.
+Use the virtual enivroment for neccesary dependenciesfor notebook.
 
-## Installing and Running Moonbounce WebApp
-
-To install the Moonbounce Flask app, once in the Moonbounce WebApp folder follow these steps:
-
-$ pip3 install -r requirements.txt 
-
-Set the FLASK_APP environment variable 
-
-* $ export FLASK_APP=run.py 
-
-Start the application (development mode) 
-
-* $ flask run 
-
-Access the dashboard in browser: http://127.0.0.1:5000/ 
-Create an account and log in 
 
 ## Contact
 
